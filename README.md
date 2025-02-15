@@ -68,3 +68,9 @@ Database: Managed data using MongoDB and Mongoose.
 Testing: Checked for responsiveness, security, and performance.
 Conclusion
 This Online Learning Platform showcases my ability to develop modern, scalable, and interactive full-stack web applications. Using React.js for dynamic UI, Node.js for backend operations, and MongoDB for efficient data management, I created a professional platform with advanced animations powered by Framer Motion and GSAP. This project highlights both my technical skills and creativity in web design and development.
+
+**OUT PUT OF PROJECTS**
+
+![Image](https://github.com/user-attachments/assets/34df58f7-6ee8-492d-8e5b-e34d68d46d1f)
+![Image](https://github.com/user-attachments/assets/03147925-026e-438b-b2fb-78e938933bb5)
+![Image](https://github.com/user-attachments/assets/92259154-e463-4e49-9304-3ddcc2ee2a68)
